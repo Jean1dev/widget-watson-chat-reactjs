@@ -4436,9 +4436,17 @@ __metadata:
     "@testing-library/jest-dom": ^4.2.4
     "@testing-library/react": ^9.3.2
     "@testing-library/user-event": ^7.1.2
+    immutable: ^3.8.1
+    markdown-it: ^8.4.1
+    markdown-it-link-attributes: ^2.1.0
+    markdown-it-sanitizer: ^0.4.3
+    markdown-it-sup: ^1.0.0
+    prop-types: ^15.5.10
     react: ^16.12.0
     react-chat-widget: ^2.1.5
     react-dom: ^16.12.0
+    react-immutable-proptypes: ^2.1.0
+    react-redux: ^5.0.6
     react-scripts: 3.3.1
   languageName: unknown
   linkType: soft

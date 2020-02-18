@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Chat from './components/chat'
+import Chat from '../src/components/chat'
 
 function App() {
   return (

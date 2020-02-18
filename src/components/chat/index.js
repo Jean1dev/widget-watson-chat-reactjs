@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Widget, addResponseMessage, toggleMsgLoader, renderCustomComponent, setQuickButtons } from 'react-chat-widget'
+import { Widget, addResponseMessage, toggleMsgLoader, renderCustomComponent, setQuickButtons } from '../../widget-composer'
 // import { Container } from './styles';
-import 'react-chat-widget/lib/styles.css'
+//import 'react-chat-widget/lib/styles.css'
 
 export default function Chat({
     title = 'Carlos',
