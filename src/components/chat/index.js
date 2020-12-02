@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { Widget, addResponseMessage, toggleMsgLoader, renderCustomComponent, setQuickButtons } from '../../widget-composer'
+import { Widget } from '../../widget-composer'
+// import { Widget, addResponseMessage, toggleMsgLoader, renderCustomComponent, setQuickButtons } from '../../widget-composer'
 // import { Container } from './styles';
 //import 'react-chat-widget/lib/styles.css'
 
